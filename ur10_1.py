@@ -3,7 +3,6 @@
 """
 Created on Thu Nov 11 16:00:50 2021
 
-@author: belinda
 """
 
 from math import *
